@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Patrik | Front End Developer
-## Currently Studying
+## 🏫Currently Studying at Medieinstitutet | Malmö
+
 
 <!--
 **Patr1khe/Patr1khe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
