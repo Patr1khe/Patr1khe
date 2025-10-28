@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Patrik | Front End Developer
-## 🏫Currently Studying at Medieinstitutet | Malmö
+## 🏫Currently working at Printing i skåne | Kristianstad
 
 
 <!--
